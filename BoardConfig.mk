@@ -6,6 +6,7 @@
 #
 
 DEVICE_PATH := device/oneplus/larry
+LOCAL_PATH := device/oneplus/larry
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
