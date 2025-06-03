@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_larry.mk
+    $(LOCAL_DIR)/twrp_larry.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_larry-user \
-    omni_larry-userdebug \
-    omni_larry-eng
+   twrp_larry-user \
+   twrp_larry-userdebug \
+    twrp_larry-eng
